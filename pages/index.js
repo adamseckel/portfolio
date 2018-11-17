@@ -27,6 +27,7 @@ injectGlobal`
     will-change: transform;
     position: relative;
     transition: none;
+    backgound-color:transparent;
   }
 `
 
